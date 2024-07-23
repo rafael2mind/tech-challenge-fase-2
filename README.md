@@ -1,6 +1,6 @@
 # Tech Challenge - FIAP: IA para Devs (Fase 2)
 
-###Grupo 38
+### Grupo 38
 - Pedro Vianna Silveira
 - Rafael Silva Souza
 - Rodrigo de Freitas Ornellas
