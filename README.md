@@ -53,4 +53,4 @@ Este documento está organizado da seguinte forma:
 7. **Discussão**: Interpreta os resultados, discute o impacto potencial no e-commerce e sugere melhorias futuras.
 8. **Conclusão**: Resume os achados do projeto, apresenta as conclusões principais e aponta possíveis trabalhos futuros.
 
-Com esta introdução, estabelecemos a base para o desenvolvimento do projeto, destacando a relevância do problema e os objetivos a serem alcançados. A seguir, aprofundaremos a descrição do problema, abordando sua definição e importância no contexto do e-commerce.
+Com esta introdução, estabelecemos a base para o desenvolvimento do projeto, destacando a relevância do problema e os objetivos a serem alcançados.
