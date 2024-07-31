@@ -16,8 +16,7 @@ https://github.com/rafael2mind/tech-challenge-fase-2
 
 
 ### 🔗 Vídeo de apresentação
-https://youtu.be/
-
+https://youtu.be/WEVd9syna1c
 ---
 
 ### Introdução
